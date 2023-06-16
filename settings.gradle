@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "FarmTracker"
+include ':app'
+include ':onBoarding'
+include ':core'
+include ':auth'
+include ':configuration'
+include ':summary'
+include ':summary'
+include ':database'

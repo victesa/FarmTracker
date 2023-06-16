@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909421418709",
+    "project_id": "farmtracker-39377",
+    "storage_bucket": "farmtracker-39377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909421418709:android:ce4e7e0a482c87ce616a5c",
+        "android_client_info": {
+          "package_name": "com.example.farmtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909421418709-ji3vk1ps5u7au03te2c8c9p89e27me9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTsnY30wMnsU49nmCD9rt6P6Pu0DBaNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909421418709-ji3vk1ps5u7au03te2c8c9p89e27me9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
